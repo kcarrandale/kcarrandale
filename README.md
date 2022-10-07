@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcarrandale
 - 👀 I’m interested in web development and accessibility.
-- 🌱 I’m currently learning basic database design as part of my web development certificate.
+- 🌱 I’m currently learning Git and basic accessibility testing.
 
 
 <!---
