@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kcarrandale
+- 👋 Hi, I’m KC Arrandale.
 - 👀 I’m interested in web development and accessibility.
-- 🌱 I’m currently learning Git and basic accessibility testing.
+- 🌱 I’m currently learning Git and basic accessibility.
 
 
 <!---
