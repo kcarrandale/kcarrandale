@@ -1,7 +1,6 @@
-- 👋 Hi, I’m KC Arrandale.
+- 👋 Hi, I’m Katherine!
 - 👀 I’m interested in web development and accessibility.
-- 🌱 I’m currently learning Git and basic accessibility.
-
+- 🌱 I’m currently learning Git, MERN stack, Eleventy, and basic accessibility.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
